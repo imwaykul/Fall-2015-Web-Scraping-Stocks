@@ -3,3 +3,5 @@ CS 2316 Final Project: Utilized web-scraping and SQL Queries to generate a Stock
 Run StockMarketSim.py
 
 While Georgia Tech students are not allowed to put class projects on github, I would be happy to show this project to anyone who is not planning to take this course.
+
+Please contact me at: ishan.m.waykul@gmail.com
